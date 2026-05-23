@@ -591,4 +591,4 @@ elif page == "🔮 KPI Forecast":
 
 # A small footer shown at the bottom of the sidebar on every page.
 st.sidebar.markdown("---")
-st.sidebar.caption("Made with ❤️ using Streamlit")
+st.sidebar.caption("Made using Streamlit")
